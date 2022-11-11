@@ -1,0 +1,4 @@
+The following web application can be by accessed by firstly downloading all the files provided in the folder.
+Then  double clicking the desired file to be opened with the names ending with (.html)
+
+Thank you
